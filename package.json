@@ -1,0 +1,8 @@
+{
+  "name": "sketchjs-handwriting",
+  "version": "0.0.1",
+  "description": "handwriting with sketchjs",
+  "dependencies": {
+    "express": "4.10.6"
+  }
+}
