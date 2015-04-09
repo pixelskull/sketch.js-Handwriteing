@@ -1,4 +1,4 @@
-# sketch.js-Handwriteing
+# sketch.js-Handwriting
 FH-K Project: Handwriting via Sketch.js
 
 ## to install: 
